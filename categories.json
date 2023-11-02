@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Getting Started",
+      "descriptionLink1": "Praesent aliquet nibh eget odio blandit finibus.",
+      "descriptionLink2": "Praesent aliquet nibh eget.",
+      "descriptionLink3": "Proin blandit dolor vitae."
+    },
+    {
+      "title": "Buying Guide",
+      "descriptionLink1": "Proin blandit dolor vitae.",
+      "descriptionLink2": "risus et quam blandit.",
+      "descriptionLink3": "Proin blandit dolor vitae."
+    },
+    {
+      "title": "Selling Guide",
+      "descriptionLink1": "Donec pulvinar turpis quis.",
+      "descriptionLink2": "Praesent aliquet nibh eget.",
+      "descriptionLink3": "Fusce in luctus mauris."
+    }
+  ]
